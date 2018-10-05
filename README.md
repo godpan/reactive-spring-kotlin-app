@@ -1,2 +1,2 @@
-# spring-kotlin-jasync-sql
-reactive applcation base on Spring + Kotlin + Jasync-sql
+# reactive-spring-kotlin-app
+reactive application base spring with kotlin
